@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="966c0813-4a80-4f79-85e1-12d46737fe81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lesson1/Phone.java" afterDir="false" />
-    </list>
+    <list default="true" id="966c0813-4a80-4f79-85e1-12d46737fe81" name="Changes" comment="HW" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +93,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677227726787</updated>
     </task>
+    <task id="LOCAL-00001" summary="HW">
+      <created>1677417576566</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677417576566</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,5 +113,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW" />
   </component>
 </project>
